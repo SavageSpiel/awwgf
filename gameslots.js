@@ -1,0 +1,19 @@
+const time1 = new Date(Date.UTC(2026, 5, 11, 23, 30, 0));
+const time2 = new Date(Date.UTC(2026, 5, 12, 4, 00, 0));
+const time3 = new Date(Date.UTC(2026, 5, 12, 9, 00, 0));
+const time4 = new Date(Date.UTC(2026, 5, 12, 14, 00, 0));
+const time5 = new Date(Date.UTC(2026, 5, 12, 19, 00, 0));
+const time6 = new Date(Date.UTC(2026, 5, 12, 23, 30, 0));
+const time7 = new Date(Date.UTC(2026, 5, 13, 4, 00, 0));
+const time8 = new Date(Date.UTC(2026, 5, 13, 9, 00, 0));
+const time9 = new Date(Date.UTC(2026, 5, 13, 14, 00, 0));
+const time10 = new Date(Date.UTC(2026, 5, 13, 19, 00, 0));
+const time11 = new Date(Date.UTC(2026, 5, 13, 23, 30, 0));
+const time12 = new Date(Date.UTC(2026, 5, 14, 4, 00, 0));
+const time13 = new Date(Date.UTC(2026, 5, 14, 9, 00, 0));
+const time14 = new Date(Date.UTC(2026, 5, 14, 14, 00, 0));
+const time15 = new Date(Date.UTC(2026, 5, 14, 19, 00, 0));
+
+const day1 = new Date(Date.UTC(2026, 5, 12, 0, 00, 0));
+const day2 = new Date(Date.UTC(2026, 5, 13, 0, 00, 0));
+const day3 = new Date(Date.UTC(2026, 5, 14, 0, 00, 0));
