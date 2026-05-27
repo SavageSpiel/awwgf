@@ -2,7 +2,7 @@ var target = window.location.hash;
 window.location.hash = "";
 
 jQuery(document).ready(function( $ ){
-		const gameListingCsv = "https://awwgf.gillthomson.co.uk/wp-content/uploads/2026/05/2026-AWWGF-GM-Form-Intake-Out-DataSet-3.csv"
+		const gameListingCsv = "https://linktothecsvfile.csv"
 		const locale = (navigator && navigator.language) || "en";
 		const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZoneName: "long", hour: "2-digit", minute: "2-digit" };
 		const slot1 = time1.toLocaleString(locale, options);
